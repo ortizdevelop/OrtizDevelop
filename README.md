@@ -19,6 +19,10 @@
 </br>
 </br>
 
+### Connect with me:
+
+[![website](./img/globe-dark.svg)](https://ortizdevelop.github.io)
+
 ### Follow me:
 
 [![Vkontakte](https://img.shields.io/badge/VKONTAKTE-4F4F4F?style=for-the-badge&logo=VK&logoColor=567BAE)](https://vk.com/ortizdevelop)
