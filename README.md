@@ -1,4 +1,4 @@
-![Header](https://github.com/OrtizDevelop/OrtizDevelop/blob/main/img/github-top-bar.png)
+![Header](https://github.com/ortizdevelop/OrtizDevelop/blob/main/img/github-top-bar.png)
 
 ### Hello, my friend 🤗.
 
@@ -36,6 +36,6 @@
 
 ## My statistics:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrtizDevelop&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizdevelop&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrtizDevelop&layout=compact)](https://github.com/AidenOrtiz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizdevelop&layout=compact)](https://github.com/ortizdevelop)
