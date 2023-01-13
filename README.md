@@ -36,4 +36,4 @@
 
 ## My statistics:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ortizdevelop&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ortizdevelop&show_icons=true&title_color=EE6C4D&text_color=D9D9D9&icon_color=EE6C4D&border_color=EE6C4D&bg_color=323232" />
