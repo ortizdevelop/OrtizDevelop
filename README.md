@@ -36,6 +36,9 @@
 
 ## My statistics:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizdevelop)](https://github.com/ortizdevelop/github-readme-stats)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizdevelop&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizdevelo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizdevelo&langs_count=8)](https://github.com/ortizdevelop/github-readme-stats)
