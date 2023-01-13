@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://ortizdevelop.github.io)
+[![My Website](/img/ORTIZ.png)](https://ortizdevelop.github.io)
 
 ### Follow me:
 
