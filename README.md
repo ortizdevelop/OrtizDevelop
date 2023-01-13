@@ -38,4 +38,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ortizdevelop&show_icons=true&title_color=EE6C4D&text_color=D9D9D9&icon_color=EE6C4D&border_color=EE6C4D&bg_color=323232" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizdevelop&langs_count=8&text_color=D9D9D9&icon_color=EE6C4D&border_color=EE6C4D&bg_color=323232)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizdevelop&langs_count=8&title_color=EE6C4D&text_color=D9D9D9&icon_color=EE6C4D&border_color=EE6C4D&bg_color=323232)](https://github.com/anuraghazra/github-readme-stats)
