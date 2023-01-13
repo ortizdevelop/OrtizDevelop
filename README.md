@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-[![My Website](/img/ORTIZ.png)](https://ortizdevelop.github.io)
+[![My Website](/img/mdi_web.png)](https://ortizdevelop.github.io)
 
 ### Follow me:
 
